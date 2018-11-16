@@ -7,3 +7,4 @@ copyright = "Copyright © 2018, Zach Sundwall; all rights reserved."
 canonifyurls = true
 paginate = 3
 
+theme = "hugograyscale"
