@@ -17,11 +17,11 @@ about:
 
 music:
     header: "Listen to My Music"
-    text: '<p>Add SoundCloud songs here</p>'
+    text: '<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/169292097&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>'
 
 videos:
     header: "My Videos"
-    text: '<p>Here are my videos</p>'
+    text: '<iframe width="560" height="315" src="https://www.youtube.com/embed/KzpysHDyetg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 contact:
     header: "Get ahold of me!"
