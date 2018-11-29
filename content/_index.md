@@ -18,10 +18,10 @@ about:
 listen:
     header: 'Listen to My Music'
     links:
-        - 'https://soundcloud.com/zsundwall/illuminate'
-        - 'https://soundcloud.com/zsundwall/moonrise'
-        - 'https://soundcloud.com/zsundwall/higher'
-
+        - 'https://soundcloud.com/zsundwall/sets/cinematic/s-UbHvB'
+        - 'https://soundcloud.com/zsundwall/sets/rock-sports/s-Udb93'
+        - 'https://soundcloud.com/zsundwall/sets/minimal-tension/s-Kgwdn'
+        - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
 watch:
     header: 'Watch My Videos'
     links:
