@@ -4,7 +4,6 @@ date: 2018-11-16T12:00:00-00:00
 copyright: "Zach Sundwall, all rights reserved."
 
 socialhandles:
-    twitter: '@zachsundwall'
     email: 'zach@zachsundwall.com'
 
 intro:
