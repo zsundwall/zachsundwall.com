@@ -21,7 +21,7 @@ listen:
         - 'https://soundcloud.com/zsundwall/sets/rock-sports/s-Udb93'
         - 'https://soundcloud.com/zsundwall/sets/minimal-tension/s-Kgwdn'
         - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
-watch:
+works:
     header: 'Watch My Videos'
     links:
         - 'https://www.youtube.com/embed/dAMBKsr1x0A'
