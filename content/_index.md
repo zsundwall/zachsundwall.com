@@ -22,7 +22,7 @@ listen:
         - 'https://soundcloud.com/zsundwall/sets/minimal-tension/s-Kgwdn'
         - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
 works:
-    header: 'Watch'
+    header: 'Works'
     links:
         - 'https://www.youtube.com/embed/dAMBKsr1x0A'
         - 'https://www.youtube.com/embed/KzpysHDyetg'
