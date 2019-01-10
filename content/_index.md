@@ -4,7 +4,7 @@ date: 2018-11-16T12:00:00-00:00
 copyright: "Zach Sundwall, all rights reserved."
 
 socialhandles:
-    email: 'zach@zachsundwall.com'
+    email: 'zsundwallmusic@gmail.com'
 
 intro:
     header: 'Zach Sundwall'
@@ -28,6 +28,6 @@ works:
         - 'https://www.youtube.com/embed/KzpysHDyetg'
 
 contact:
-    header: "Get ahold of me!"
+    header: "Contact me:"
 ---
 
