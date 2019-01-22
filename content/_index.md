@@ -30,4 +30,3 @@ work:
 contact:
     header: "Contact me:"
 ---
-
