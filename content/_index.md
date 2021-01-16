@@ -19,7 +19,7 @@ listen:
     links:
         - 'https://soundcloud.com/zsundwall/sets/cinematic/s-UbHvB'
         - 'https://soundcloud.com/zsundwall/sets/rock-sports/s-Udb93'
-        - 'https://soundcloud.com/zsundwall/sets/minimal-tension/s-Kgwdn'
+        - 'https://soundcloud.com/zsundwall/sets/minimal-tension'
         - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
 work:
     header: 'Work'
