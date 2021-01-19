@@ -27,6 +27,7 @@ work:
     links:
         - 'https://www.youtube.com/embed/dAMBKsr1x0A'
         - 'https://www.youtube.com/embed/KzpysHDyetg'
+        - 'https://www.youtube.com/embed/Ifky_aEr5DQ'
 
 contact:
     header: "Contact me:"
