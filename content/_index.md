@@ -16,12 +16,15 @@ about:
 
 listen:
     header: 'Listen'
-    links:
+    soundcloud:
         - 'https://soundcloud.com/zsundwall/sets/cinematic/s-UbHvB'
         - 'https://soundcloud.com/zsundwall/sets/rock-sports/s-Udb93'
         - 'https://soundcloud.com/zsundwall/sets/minimal-tension'
         - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
         - 'https://soundcloud.com/zsundwall/sets/trailers/s-AJcXAXrDh5u'
+    spotify:
+        - 'https://open.spotify.com/embed/album/46e8G4sHDNirCiNFMKjLzV'
+        - 'https://open.spotify.com/embed/album/7tOE0cHrhzva7KRvtBRkvk'
 work:
     header: 'Work'
     links:
