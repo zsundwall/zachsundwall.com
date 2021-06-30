@@ -8,7 +8,7 @@ socialhandles:
 
 intro:
     header: 'Zach Sundwall'
-    text: 'Media Composer, Guitarist'
+    text: 'Composer, Producer, Arranger'
 
 about:
     header: 'About'
