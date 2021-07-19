@@ -16,20 +16,18 @@ about:
 
 listen:
     header: 'Listen'
-     
-     spotify:
+    spotify:
         - 'https://open.spotify.com/embed/album/46e8G4sHDNirCiNFMKjLzV'
         - 'https://open.spotify.com/embed/album/7tOE0cHrhzva7KRvtBRkvk'
         - 'https://open.spotify.com/embed/album/579NqqvwmzwZahLQ0ajj8r'
         - 'https://open.spotify.com/embed/album/4oe0ZbPMF632yeV0sdezkZ'
-    
     soundcloud:
         - 'https://soundcloud.com/zsundwall/sets/cinematic/s-UbHvB'
         - 'https://soundcloud.com/zsundwall/sets/rock-sports/s-Udb93'
         - 'https://soundcloud.com/zsundwall/sets/minimal-tension'
         - 'https://soundcloud.com/zsundwall/sets/corporate/s-PxYy9'
         - 'https://soundcloud.com/zsundwall/sets/trailers/s-AJcXAXrDh5u'
-   
+
 work:
     header: 'Work'
     links:
